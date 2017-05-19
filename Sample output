@@ -1,0 +1,19 @@
+Enter width and length  of REctangle: 3                                                                                                                                         
+4                                                                                                                                                                               
+Rectangle width: 3.0 and length: 4.0                                                                                                                                            
+Resulting area: 12.0                                                                                                                                                            
+Resulting perimeter: 14.0                                                                                                                                                       
+                                                                                                                                                                                
+                                                                                                                                                                                
+Enter radius of circle: 2                                                                                                                                                       
+Circle radius: 2.0                                                                                                                                                              
+Resulting Area: 12.566370614359172                                                                                                                                              
+Resulting Perimeter: 12.566370614359172                                                                                                                                         
+                                                                                                                                                                                
+                                                                                                                                                                                
+Enter 3 lenght Height of Triangle respectvaly a ,b , c: 2                                                                                                                       
+3                                                                                                                                                                               
+3                                                                                                                                                                               
+Triangle sides lengths: 2.0, 3.0, 3.0                                                                                                                                           
+Resulting Area: 2.8284271247461903                                                                                                                                              
+Resulting Perameter: 8.0  
